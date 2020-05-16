@@ -1,0 +1,34 @@
+.search-form {
+  width: 35%;
+  height: auto;
+  margin: 25px;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #61dafb;
+  margin-bottom: 35px;
+  margin-left: 15px;
+  font-family: Helvetica;
+  margin-right: 90px;
+  background-color: #282c34;
+  color: white;
+
+
+
+}
+.ag-theme-alpine { --ag-background-color: #282c34;
+  --ag-foreground-color: #61dafb ;
+  margin-bottom: 200px;
+}
+
+.industry-filter{
+
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #61dafb;
+  margin-right: 15px;
+  font-family: Helvetica;
+  background-color: #282c34;
+  color: white;
+
+
+}
